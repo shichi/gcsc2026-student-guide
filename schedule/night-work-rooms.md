@@ -118,10 +118,10 @@
 
 ## 💡 Tips for Shared Workspaces
 
-1. **Coordinate with other teams**: If you need to have a discussion, consider moving to a corner or hallway temporarily
-2. **Use Discord**: For team communication, consider using your team Discord channel with headphones
-3. **Take breaks**: If the room gets crowded, take short breaks in the hallway
-4. **Be flexible**: Understand that everyone is working hard - patience and cooperation are key
+1. **Discussions are welcome in the room**: The rooms have sufficient space for team discussions. Please be mindful of your volume to avoid disturbing neighboring teams.
+2. **Use Discord for messaging**: For text-based team communication, consider using your team Discord channel to minimize noise
+3. **Headphones recommended**: When watching videos or listening to audio, please use headphones
+4. **Be considerate**: Understand that everyone is working hard - patience and cooperation are key
 
 ---
 
