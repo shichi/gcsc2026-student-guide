@@ -20,6 +20,7 @@
 ### 📅 [Schedule](schedule/)
 - [Overview](schedule/overview.md) - 4日間のスケジュール概要
 - [Detailed Schedule](schedule/detailed-schedule.md) - 各日の詳細プログラム
+- [Night Work Room Assignments](schedule/night-work-rooms.md) - 夜間作業部屋割り
 
 ### 👥 [Mentor Booking System](mentor-booking/)
 - [Guide](mentor-booking/guide.md) - メンター予約システムの使い方
