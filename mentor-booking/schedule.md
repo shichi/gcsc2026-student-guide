@@ -1,6 +1,6 @@
 # GCSC2026 Mentor Booking Status
 
-Last Updated: 2026-02-07T23:00:36.148121
+Last Updated: 2026-02-07T23:04:48.506074
 
 **Booking System:** Each session is divided into 20-minute timeslots. Teams can book one timeslot per session.
 
@@ -46,24 +46,24 @@ Last Updated: 2026-02-07T23:00:36.148121
 ### 14:40-15:00
 - (No bookings)
 
-## Session 3: 15:30-17:30
+## Session 3: 15:00-17:00
 
-### 15:30-15:50
+### 15:00-15:20
 - (No bookings)
 
-### 15:50-16:10
+### 15:20-15:40
 - (No bookings)
 
-### 16:10-16:30
+### 15:40-16:00
 - (No bookings)
 
-### 16:30-16:50
+### 16:00-16:20
 - (No bookings)
 
-### 16:50-17:10
+### 16:20-16:40
 - (No bookings)
 
-### 17:10-17:30
+### 16:40-17:00
 - (No bookings)
 
 ## Faculty Night: 20:00-22:00
