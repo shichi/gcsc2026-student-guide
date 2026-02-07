@@ -86,30 +86,30 @@ GCSC2026のメンター予約は**20分単位のタイムスロット制**を採
 **Timeslots:** 10:00-10:20, 10:20-10:40, 10:40-11:00, 11:00-11:20, 11:20-11:40, 11:40-12:00
 
 **Mentors:**
-- **Masatoshi KANEKO** (金子 匡俊)
-- **Julian Brody**
-- **Heedong YOO**
-- **Hyun Joo CHUNG**
+- **Masatoshi KANEKO** (金子 匡俊) - Room 406
+- **Julian Brody** - Room 407
+- **Heedong YOO** - Room 410
+- **Hyun Joo CHUNG** - Room 411
 
 ### Session 2: 13:00-15:00
 
 **Timeslots:** 13:00-13:20, 13:20-13:40, 13:40-14:00, 14:00-14:20, 14:20-14:40, 14:40-15:00
 
 **Mentors:**
-- **Kenta MURAOKA** (村岡 健太)
-- **Keiichiro KATAOKA** (片岡 慶一郎)
-- **Seung Hwan MOK**
-- **Hyun Joo CHUNG**
+- **Kenta MURAOKA** (村岡 健太) - Room 406
+- **Keiichiro KATAOKA** (片岡 慶一郎) - Room 407
+- **Seung Hwan MOK** - Room 410
+- **Hyun Joo CHUNG** - Room 411
 
 ### Session 3: 15:00-17:00
 
 **Timeslots:** 15:00-15:20, 15:20-15:40, 15:40-16:00, 16:00-16:20, 16:20-16:40, 16:40-17:00
 
 **Mentors:**
-- **Kenta MURAOKA** (村岡 健太)
-- **Takatsugu KONNO** (紺野 貴嗣)
-- **Seung Hwan MOK**
-- **Hyun Joo CHUNG**
+- **Kenta MURAOKA** (村岡 健太) - Room 406
+- **Takatsugu KONNO** (紺野 貴嗣) - Room 407
+- **Seung Hwan MOK** - Room 410
+- **Hyun Joo CHUNG** - Room 411
 
 ### Faculty Night: 20:00-22:00
 
