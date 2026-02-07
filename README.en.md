@@ -39,6 +39,9 @@ A 4-day innovation camp where Japanese and Korean university students collaborat
 ### ❓ [FAQ](faq.md)
 Frequently Asked Questions
 
+### 👥 [Participants List](participants.en.md)
+Full participants list (by team)
+
 ### 📞 [Contact](contact.md)
 Contact information and support
 
