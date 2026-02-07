@@ -1,6 +1,6 @@
 # GCSC2026 Mentor Booking Status
 
-Last Updated: 2026-02-07T22:23:14.463289
+Last Updated: 2026-02-07T23:00:25.013443
 
 **Booking System:** Each session is divided into 20-minute timeslots. Teams can book one timeslot per session.
 
@@ -12,7 +12,7 @@ Last Updated: 2026-02-07T22:23:14.463289
 - (No bookings)
 
 ### 10:20-10:40
-- (No bookings)
+- **Julian Brody**: team-01
 
 ### 10:40-11:00
 - (No bookings)
