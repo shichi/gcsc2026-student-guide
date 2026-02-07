@@ -82,16 +82,27 @@
 
 ## 🏆 Awards
 
-### Grand Prize（最優秀賞）
-- 賞金: 200,000円 / 2,000,000ウォン
+**賞金総額: 110万円**
 
-### Excellence Award（優秀賞）
-- 賞金: 100,000円 / 1,000,000ウォン
+### Global Issue Track
+地球規模の社会課題（気候変動、貧困、教育格差など）に取り組むトラック
 
-### Special Awards（特別賞）
-- Innovation Award
-- Collaboration Award
-- Presentation Award
+| 賞 | 賞金 |
+|---|------|
+| **Gold Award** <br>presented by Korea Ministry of Climate, Energy and Environment | 30万円 |
+| **Silver Award** | 15万円 |
+| **Bronze Award** | 10万円 |
+
+### Local Issue Track
+日本・韓国に関連するローカルな社会課題に取り組むトラック
+
+| 賞 | 賞金 |
+|---|------|
+| **Gold Award** <br>presented by Kunitachi City Mayor | 30万円 |
+| **Silver Award** | 15万円 |
+| **Bronze Award** | 10万円 |
+
+※ 賞金はチーム単位で授与されます
 
 ---
 
