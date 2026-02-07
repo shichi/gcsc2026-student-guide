@@ -6,28 +6,52 @@
 
 ## 📋 Room Assignments for 20 Teams
 
-| Team | Night Work Room | Floor |
-|------|----------------|-------|
-| **Team 01** | Room 401 | 4F |
-| **Team 02** | Room 402 | 4F |
-| **Team 03** | Room 403 | 4F |
-| **Team 04** | Room 404 | 4F |
-| **Team 05** | Room 405 | 4F |
-| **Team 06** | Room 406 | 4F |
-| **Team 07** | Room 407 | 4F |
-| **Team 08** | Room 408 | 4F |
-| **Team 09** | Room 409 | 4F |
-| **Team 10** | Room 410 | 4F |
-| **Team 11** | Room 501 | 5F |
-| **Team 12** | Room 502 | 5F |
-| **Team 13** | Room 503 | 5F |
-| **Team 14** | Room 504 | 5F |
-| **Team 15** | Room 505 | 5F |
-| **Team 16** | Room 512 | 5F |
-| **Team 17** | Room 513 | 5F |
-| **Team 18** | Room 514 | 5F |
-| **Team 19** | Room 515 | 5F |
-| **Team 20** | Room 516 | 5F |
+**3部屋を複数チームでシェア / 3 Rooms Shared by Multiple Teams**
+
+### Room 404 (4th Floor) - 7 Teams
+
+| Team | Members |
+|------|---------|
+| **Team 01** | 4名 (日本2名+韓国2名) |
+| **Team 02** | 4名 (日本2名+韓国2名) |
+| **Team 03** | 4名 (日本2名+韓国2名) |
+| **Team 04** | 4名 (日本2名+韓国2名) |
+| **Team 05** | 4名 (日本2名+韓国2名) |
+| **Team 06** | 4名 (日本2名+韓国2名) |
+| **Team 07** | 4名 (日本2名+韓国2名) |
+
+**合計: 28名**
+
+---
+
+### Room 415 (4th Floor) - 7 Teams
+
+| Team | Members |
+|------|---------|
+| **Team 08** | 4名 (日本2名+韓国2名) |
+| **Team 09** | 4名 (日本2名+韓国2名) |
+| **Team 10** | 4名 (日本2名+韓国2名) |
+| **Team 11** | 4名 (日本2名+韓国2名) |
+| **Team 12** | 4名 (日本2名+韓国2名) |
+| **Team 13** | 4名 (日本2名+韓国2名) |
+| **Team 14** | 4名 (日本2名+韓国2名) |
+
+**合計: 28名**
+
+---
+
+### Room 512 (5th Floor) - 6 Teams
+
+| Team | Members |
+|------|---------|
+| **Team 15** | 4名 (日本2名+韓国2名) |
+| **Team 16** | 4名 (日本2名+韓国2名) |
+| **Team 17** | 4名 (日本2名+韓国2名) |
+| **Team 18** | 4名 (日本2名+韓国2名) |
+| **Team 19** | 4名 (日本2名+韓国2名) |
+| **Team 20** | 4名 (日本2名+韓国2名) |
+
+**合計: 24名**
 
 ---
 
@@ -45,23 +69,30 @@
 
 ## 📝 Rules & Guidelines
 
-### 1. Use Your Assigned Room
-- Each team should use only their assigned room
-- Do not enter other teams' rooms without permission
+### 1. Shared Space Etiquette
+- **Be considerate** of other teams working in the same room
+- Keep noise levels low - other teams are concentrating too
+- Respect each team's workspace and materials
 
-### 2. Keep Quiet
-- It's nighttime - keep your voice down
+### 2. Use Your Team's Area
+- Each team should stay in their designated area within the room
+- Don't interfere with other teams' work or discussions
+
+### 3. Keep Quiet
+- It's nighttime - whisper or use low voices
 - Minimize conversations in hallways
+- Use headphones for videos or music
 
-### 3. Clean Up Before Leaving
+### 4. Clean Up Before Leaving
 - Return the room to its original state
 - Dispose of trash properly or take it with you
+- Don't leave personal items behind
 
-### 4. Security
+### 5. Security
 - Manage your valuables yourself
-- Lock the room when you leave
+- Last team to leave should turn off lights and lock the room
 
-### 5. Wi-Fi Access
+### 6. Wi-Fi Access
 - Venue Wi-Fi is available
 - Connection details provided at check-in
 
@@ -77,12 +108,20 @@
 ## 🗺️ Floor Map Reference
 
 ### 4th Floor (Center Building)
-- Rooms 401-410: Night work rooms (Teams 01-10)
+- **Room 404**: Teams 01-07 (7 teams, 28 people)
+- **Room 415**: Teams 08-14 (7 teams, 28 people)
 
 ### 5th Floor (Center Building)
-- Rooms 501-505: Night work rooms (Teams 11-15)
-- Rooms 512-516: Night work rooms (Teams 16-20)
-- Room 515: GCSC2026 Office (daytime)
+- **Room 512**: Teams 15-20 (6 teams, 24 people)
+
+---
+
+## 💡 Tips for Shared Workspaces
+
+1. **Coordinate with other teams**: If you need to have a discussion, consider moving to a corner or hallway temporarily
+2. **Use Discord**: For team communication, consider using your team Discord channel with headphones
+3. **Take breaks**: If the room gets crowded, take short breaks in the hallway
+4. **Be flexible**: Understand that everyone is working hard - patience and cooperation are key
 
 ---
 
