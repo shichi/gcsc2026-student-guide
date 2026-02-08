@@ -87,9 +87,10 @@ GCSC2026のメンター予約は**20分単位のタイムスロット制**を採
 
 **Mentors:**
 - **Masatoshi KANEKO** (金子 匡俊) - Room 406
-- **Julian Brody** - Room 407
+- **Ayame ITO** (伊藤 あやめ / Pollimill CEO) - Room 407
 - **Heedong YOO** - Room 410
 - **Hyun Joo CHUNG** - Room 411
+- **Kenta MURAOKA** (村岡 健太 / EY) - Room 406 *NEW*
 
 ### Session 2: 13:00-15:00
 
