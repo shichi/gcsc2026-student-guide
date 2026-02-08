@@ -64,6 +64,22 @@ A 4-day innovation camp where 80 university students from Japan and Korea collab
 
 ---
 
+## TiB App Registration (DAY3)
+
+Entry to **Tokyo Innovation Base (TiB)** on DAY3 (Feb 10) requires the TiB app.
+Please download and register in advance.
+
+DAY3（2/10）の会場 **Tokyo Innovation Base (TiB)** への入場にはアプリの事前登録が必要です。
+
+DAY3 (2/10) 행사장 **Tokyo Innovation Base (TiB)** 입장을 위해 앱 사전 등록이 필요합니다.
+
+| Platform | Link |
+|----------|------|
+| **iPhone / iOS** | [App Store](https://apps.apple.com/jp/app/tokyo-innovation-base/id6479402728) (search "Tokyo Innovation Base") |
+| **Android** | [Google Play](https://play.google.com/store/search?q=TIB&c=apps&hl=ja) (search "Tokyo Innovation Base") |
+
+---
+
 ## Quick Links
 
 - [Mentor Booking Status](mentor-booking/schedule.md) --- Live booking dashboard
