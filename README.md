@@ -1,44 +1,75 @@
 # GCSC2026 Student Guide
 
-**Global Challenge for Social Innovation Camp 2026**
+**Global College Startup Camp 2026** --- Borders to Bridges
 
-A 4-day innovation camp where Japanese and Korean university students collaborate to tackle social issues.
-
-일본과 한국 대학생이 함께 사회 문제에 도전하는 4일간의 혁신 캠프
-
-日本と韓国の大学生が共に社会課題に取り組む4日間のイノベーションキャンプ
+A 4-day innovation camp where 80 university students from Japan and Korea collaborate to tackle social challenges.
 
 ---
 
-## 🌏 Language / 언어 / 言語
+## Language / 언어 / 言語
 
-Please select your language:
-
-**[🇯🇵 日本語 (Japanese)](README.ja.md)** | **[🇰🇷 한국어 (Korean)](README.ko.md)** | **[🇬🇧 English](README.en.md)**
-
----
-
-## 🗓 Event Information
-
-- **Dates / 일정 / 日程**: February 8-11, 2026 / 2026년 2월 8일~11일 / 2026年2月8日～11日
-- **Venue / 장소 / 会場**: National Olympics Memorial Youth Center (Yoyogi) / 국립올림픽기념청소년종합센터(요요기) / 国立オリンピック記念青少年総合センター（代々木）
-- **Participants / 참가자 / 参加者**: 80 students (40 from Japan + 40 from Korea) / 80명 (일본 40명 + 한국 40명) / 80名（日本40名＋韓国40名）
-- **Teams / 팀 / チーム**: 20 teams (4 members each: 2 from Japan + 2 from Korea) / 20팀 (각 4명: 일본 2명 + 한국 2명) / 20チーム（各4名：日本2名＋韓国2名）
+| | Japanese | Korean | English |
+|---|---|---|---|
+| **Student Guide** | [日本語ガイド](README.ja.md) | [한국어 가이드](README.ko.md) | [English Guide](README.en.md) |
 
 ---
 
-## 📱 Important Links
+## Event Information
 
-- **Official Website / 공식 웹사이트 / 公式サイト**: https://www.sds.hit-u.ac.jp/gcsc2026/
-- **Discord Server / Discord 서버 / Discord サーバー**: [Invitation Link / 초대 링크 / 招待リンク]
-- **Mentor Booking / 멘토 예약 / メンター予約**: [Schedule](mentor-booking/schedule.md)
+| | |
+|---|---|
+| **Dates** | February 8 (Sun) -- 11 (Wed), 2026 |
+| **Venue** | National Olympics Memorial Youth Center, Yoyogi |
+| **Participants** | 80 students (40 Japan + 40 Korea) |
+| **Teams** | 20 teams (4 members: 2 JP + 2 KR) |
+| **Website** | https://www.sds.hit-u.ac.jp/gcsc2026/ |
 
 ---
 
-**Let's create innovative solutions together! 🚀**
+## All Pages
 
-**함께 혁신적인 솔루션을 만들어요! 🚀**
+### Schedule
 
-**共に革新的なソリューションを創りましょう！🚀**
+| Page | JP | KR | EN |
+|------|----|----|-----|
+| 4-Day Schedule Overview | [概要](schedule/overview.ja.md) | [개요](schedule/overview.ko.md) | [Overview](schedule/overview.en.md) |
+| Night Work Room Assignments | [夜間作業部屋](schedule/night-work-rooms.ja.md) | [야간 작업 방](schedule/night-work-rooms.ko.md) | [Night Rooms](schedule/night-work-rooms.en.md) |
+
+### Mentor Booking
+
+| Page | JP | KR | EN |
+|------|----|----|-----|
+| Booking Guide | [ガイド](mentor-booking/guide.ja.md) | [가이드](mentor-booking/guide.ko.md) | [Guide](mentor-booking/guide.en.md) |
+| Booking Status (Live) | [予約状況](mentor-booking/schedule.md) | [예약 현황](mentor-booking/schedule.md) | [Status](mentor-booking/schedule.md) |
+
+### Discord
+
+| Page | Link |
+|------|------|
+| Getting Started | [getting-started.md](discord/getting-started.md) |
+| Bot Commands | [commands.md](discord/commands.md) |
+
+### Participants
+
+| Page | JP | KR | EN |
+|------|----|----|-----|
+| Participants List (by Team) | [参加者名簿](participants.ja.md) | [참가자 명단](participants.ko.md) | [Participants](participants.en.md) |
+
+### FAQ & Contact
+
+| Page | JP | KR | EN |
+|------|----|----|-----|
+| FAQ | [よくある質問](faq.ja.md) | [자주 묻는 질문](faq.ko.md) | [FAQ](faq.en.md) |
+| Contact | [お問い合わせ](contact.ja.md) | [문의](contact.ko.md) | [Contact](contact.en.md) |
+
+---
+
+## Quick Links
+
+- [Mentor Booking Status](mentor-booking/schedule.md) --- Live booking dashboard
+- [Discord Commands](discord/commands.md) --- `/mentor ui`, `/set_intro`, etc.
+- [Official Website](https://www.sds.hit-u.ac.jp/gcsc2026/)
+
+---
 
 *Last Updated: 2026-02-08*
