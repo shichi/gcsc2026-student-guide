@@ -1,6 +1,6 @@
 # GCSC2026 Mentor Booking Status
 
-Last Updated: 2026-02-09T08:44:23.882316
+Last Updated: 2026-02-09T08:47:22.783936
 
 **Booking System:** Each session is divided into 20-minute timeslots. Teams can book one timeslot per session.
 
@@ -19,7 +19,6 @@ Last Updated: 2026-02-09T08:44:23.882316
 - **Ayame ITO (伊藤 あやめ / Pollimill CEO)**: team-19
 - **Heedong YOO**: team-20
 - **Hyun Joo CHUNG**: team-07
-- **Kenta MURAOKA (村岡 健太)**: team-16
 
 ### 11:00-11:20
 - **Heedong YOO**: team-14
