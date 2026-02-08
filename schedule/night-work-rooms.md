@@ -57,13 +57,11 @@
 
 ## ⏰ Available Hours
 
-### February 8th (Sunday)
-- **22:00 onwards** - Night work available
-- Daytime group work: Room 501
+**Important Change:** The group work rooms will be **locked at 22:00** and the building will be **closed at 23:00**. Late-night work in the group work rooms is not possible as originally planned. We apologize — the GCSC secretariat's confirmation with the facility was insufficient.
 
-### February 9th (Monday)
-- **22:00 onwards** - Night work available
-- Daytime group work: Room 102
+**Night Work Alternative:** Meeting spaces on **each floor of the accommodation building (Building A)** are available for night work.
+
+**Next Morning:** Keys can be picked up from **8:30**, and rooms are expected to be **open by 9:00**.
 
 ---
 
@@ -89,10 +87,9 @@
 - Don't leave personal items behind
 
 ### 5. Security - IMPORTANT
-- **The rooms are available 24 hours**, but this venue is located near **Shibuya** and **people other than GCSC participants can enter the building**. The possibility of theft cannot be ruled out.
+- This venue is located near **Shibuya** and **people other than GCSC participants can enter the building**. The possibility of theft cannot be ruled out.
 - This is **not the same as a university classroom**. **Do NOT leave laptops, wallets, or other valuables unattended in the room when you step out.**
 - The GCSC2026 secretariat **cannot take responsibility for any loss or theft**. Please manage your valuables at all times.
-- Last team to leave should turn off lights and lock the room
 
 ### 6. Wi-Fi Access
 - Venue Wi-Fi is available
