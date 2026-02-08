@@ -1,6 +1,6 @@
 # GCSC2026 Mentor Booking Status
 
-Last Updated: 2026-02-08T14:14:19.068177
+Last Updated: 2026-02-08T16:33:01.434509
 
 **Booking System:** Each session is divided into 20-minute timeslots. Teams can book one timeslot per session.
 
@@ -12,7 +12,7 @@ Last Updated: 2026-02-08T14:14:19.068177
 - (No bookings)
 
 ### 10:20-10:40
-- (No bookings)
+- **Heedong YOO**: team-10
 
 ### 10:40-11:00
 - (No bookings)
