@@ -32,7 +32,7 @@ A 4-day innovation camp where Japanese and Korean university students tackle soc
 ### Night Work Rooms (After 22:00)
 - **Room 404** (4F): Teams 01-07 (7 teams)
 - **Room 415** (4F): Teams 08-14 (7 teams)
-- **Room 512** (5F): Teams 15-20 (6 teams)
+- **Room 415** (5F): Teams 15-20 (6 teams)
 
 ※ Night work is optional. See [Night Work Room Assignments](schedule/night-work-rooms.en.md) for details.
 

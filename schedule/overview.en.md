@@ -62,7 +62,7 @@
 | 16:10-16:50 | **Keynote Speech ②** <br>Tomoko Minagawa (Women's Health Innovation Association Representative Director) <br>"Femtech and Social Implementation" |
 | 17:00-18:00 | **Detailed Program Briefing** <br>Event details, schedule, rules explanation |
 | 18:00-19:00 | **Dinner** (Cafeteria Fuji) |
-| 20:00- | **Group Work ①** <br>Team building, theme selection <br>Work in assigned team rooms <br>→ [Room Assignments](night-work-rooms.en.md) (Rooms 404, 415, 512) |
+| 20:00- | **Group Work ①** <br>Team building, theme selection <br>Work in assigned team rooms <br>→ [Room Assignments](night-work-rooms.en.md) (Rooms 404, 415, 415) |
 
 **Goal**: Build team relationships, understand the event, determine theme direction
 
@@ -75,14 +75,14 @@
 | Time | Program |
 |------|---------|
 | 07:30-08:30 | **Breakfast** (Cafeteria Fuji) |
-| 09:00-10:00 | **Preparation Time** <br>Team work preparation in assigned rooms (Rooms 404, 415, 512) |
+| 09:00-10:00 | **Preparation Time** <br>Team work preparation in assigned rooms (Rooms 404, 415, 415) |
 | 10:00-12:00 | **Mentor Session 1** 🔴 <br>Mentor booking system (Rooms 406, 407, 410, 411) |
 | 12:00-13:00 | **Lunch** (Cafeteria Fuji) |
 | 13:00-15:00 | **Mentor Session 2** 🔴 <br>Mentor booking system (Rooms 406, 407, 410, 411) |
 | 15:00-17:00 | **Mentor Session 3** 🔴 <br>Mentor booking system (Rooms 406, 407, 410, 411) |
 | 17:00-18:00 | **Mid-term Check-in** <br>Progress review for each team |
 | 18:00-19:00 | **Dinner** (Cafeteria Fuji) |
-| 19:00-20:00 | **Group Work (Free Work)** <br>Work in assigned team rooms (Rooms 404, 415, 512) |
+| 19:00-20:00 | **Group Work (Free Work)** <br>Work in assigned team rooms (Rooms 404, 415, 415) |
 | 20:00-22:00 | **Faculty Night** <br>Evening mentoring by faculty (optional, no booking required) <br>Faculty will visit each team's room |
 | 22:00- | **Continue Working (Optional)** <br>Continue working in assigned team rooms |
 
@@ -99,7 +99,7 @@
 | Time | Program | Venue |
 |------|---------|-------|
 | 07:30-08:30 | **Breakfast** (Cafeteria Fuji) | NYC |
-| 09:00-11:00 | **Final Preparation Time** <br>Presentation practice, final material review <br>Work in assigned team rooms (Rooms 404, 415, 512) | NYC |
+| 09:00-11:00 | **Final Preparation Time** <br>Presentation practice, final material review <br>Work in assigned team rooms (Rooms 404, 415, 415) | NYC |
 | 11:30-12:00 | **Lunch** (Cafeteria Fuji) | NYC |
 | 12:00-13:30 | **Move to TiB** (Subway) <br>Yoyogi-koen Stn → Chiyoda Line → Hibiya Stn → TiB <br>※ Fare at your own expense (¥210 one-way) | Transit |
 | 13:30-13:50 | **TiB Arrival & Registration** | TiB |

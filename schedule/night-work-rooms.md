@@ -40,7 +40,7 @@
 
 ---
 
-### Room 512 (5th Floor) - 6 Teams
+### Room 415 (5th Floor) - 6 Teams
 
 | Team | Members |
 |------|---------|
@@ -112,7 +112,7 @@
 - **Room 415**: Teams 08-14 (7 teams, 28 people)
 
 ### 5th Floor (Center Building)
-- **Room 512**: Teams 15-20 (6 teams, 24 people)
+- **Room 415**: Teams 15-20 (6 teams, 24 people)
 
 ---
 
