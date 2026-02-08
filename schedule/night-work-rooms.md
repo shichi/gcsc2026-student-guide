@@ -88,8 +88,10 @@
 - Dispose of trash properly or take it with you
 - Don't leave personal items behind
 
-### 5. Security
-- Manage your valuables yourself
+### 5. Security - IMPORTANT
+- **The rooms are available 24 hours**, but this venue is located near **Shibuya** and **people other than GCSC participants can enter the building**. The possibility of theft cannot be ruled out.
+- This is **not the same as a university classroom**. **Do NOT leave laptops, wallets, or other valuables unattended in the room when you step out.**
+- The GCSC2026 secretariat **cannot take responsibility for any loss or theft**. Please manage your valuables at all times.
 - Last team to leave should turn off lights and lock the room
 
 ### 6. Wi-Fi Access
