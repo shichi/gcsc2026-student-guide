@@ -1,6 +1,6 @@
 # GCSC2026 Mentor Booking Status
 
-Last Updated: 2026-02-09T11:08:22.581229
+Last Updated: 2026-02-09T11:08:59.644921
 
 **Booking System:** Each session is divided into 20-minute timeslots. Teams can book one timeslot per session.
 
@@ -71,6 +71,7 @@ Last Updated: 2026-02-09T11:08:22.581229
 
 ### 15:00-15:20
 - **Hyun Joo CHUNG**: team-04
+- **Seung Hwan MOK**: team-09
 - **Takatsugu KONNO (紺野 貴嗣)**: team-16
 
 ### 15:20-15:40
