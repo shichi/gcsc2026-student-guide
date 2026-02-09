@@ -1,6 +1,6 @@
 # GCSC2026 Mentor Booking Status
 
-Last Updated: 2026-02-09T10:10:22.105081
+Last Updated: 2026-02-09T10:19:21.160366
 
 **Booking System:** Each session is divided into 20-minute timeslots. Teams can book one timeslot per session.
 
@@ -44,6 +44,7 @@ Last Updated: 2026-02-09T10:10:22.105081
 - (No bookings)
 
 ### 13:40-14:00
+- **Keiichiro KATAOKA (片岡 慶一郎)**: team-11
 - **Kenta MURAOKA (村岡 健太)**: team-10
 - **Seung Hwan MOK**: team-17
 
