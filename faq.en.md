@@ -143,7 +143,7 @@ Recommended:
 **A:** Yes, late-night work is possible.
 - **Feb 8 (Sun) after 22:00**: Move to designated rooms for continued work
 - **Feb 9 (Mon) after 22:00**: Move to designated rooms for continued work
-- Daytime: Room 501 (Feb 8), Room 102 (Feb 9)
+- Daytime: Room 501 (Feb 8), Rooms 404, 415, 514 (Feb 9)
 
 ---
 

@@ -21,7 +21,7 @@ A 4-day innovation camp where Japanese and Korean university students tackle soc
 
 ### Group Work Rooms
 - **February 8 (Sun)**: Room 501 (Center Building 5F)
-- **February 9 (Mon)**: Room 102 (Center Building 1F)
+- **February 9 (Mon)**: Room 404, 415, 514 (Center Building 4-5F)
 
 ### Mentor Meeting Rooms (February 9)
 - **Room 406**: Available for Sessions 1-3
